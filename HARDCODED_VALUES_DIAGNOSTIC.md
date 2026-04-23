@@ -1,4 +1,5 @@
-# RAPM Vol. 6 No. 1 · Hardcoded Values Diagnostic
+# RAPM Vol. 6 No. 1 · Hardcoded Valuesgit pull --tagsgit config pull.rebase true
+git pull --tags
 
 Audit of numeric/string literals in the editorial pipeline codebase, identification of named-constant candidates, and refactor application. Captured 2026-04-19.
 

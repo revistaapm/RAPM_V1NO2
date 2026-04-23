@@ -1,6 +1,6 @@
 
 ╔══════════════════════════════════════════════════════════════════════╗
-║           CODEBASE DIAGNOSTIC · /home/claude/rapm                     ║
+║           CODEBASE · /home/claude/rapm                     ║
 ║           Project: RAPM Vol. 6 No. 1 Editorial Production             ║
 ╚══════════════════════════════════════════════════════════════════════╝
 

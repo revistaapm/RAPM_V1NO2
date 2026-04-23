@@ -1,4 +1,4 @@
-# RAPM Vol. 6 No. 1 · Cover Diagnostic
+# RAPM Vol. 6 No. 1 · Cover
 
 Forensic audit of Portada (p1) and Contraportada (p34): dimensions, fonts, drawings, images, text, and rendering integrity. 7 independent passes. One real issue found and fixed. Captured 2026-04-19.
 
